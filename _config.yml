@@ -4,7 +4,7 @@ email:       fred@medl.in
 author:      Fred Medlin
 description: "Fred Medlin"
 baseurl:     ""
-url:         "http://fmedlin.github.io"
+url:         "http://fredmedlin.com"
 date_format: "%b %-d, %Y"
 
 # Google services
