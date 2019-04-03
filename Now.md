@@ -1,11 +1,9 @@
 ---
 layout: page
+title: Now
 permalink: /now/
 tags: now
 ---
-
-### What I am up to now
-<br/>
 
 * Working remote for Sittercity and traveling to Chicago a few times a year. Definitely one of my favorite companies and favorite city.
 
